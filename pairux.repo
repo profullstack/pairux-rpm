@@ -1,0 +1,6 @@
+[pairux]
+name=PairUX Repository
+baseurl=https://profullstack.github.io/pairux-rpm/
+enabled=1
+gpgcheck=1
+gpgkey=https://profullstack.github.io/pairux-rpm/RPM-GPG-KEY-pairux
