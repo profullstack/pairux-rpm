@@ -13,6 +13,9 @@ sudo rpm --import https://profullstack.github.io/pairux-rpm/RPM-GPG-KEY-pairux
 
 # Install
 sudo dnf install pairux
+
+# Optional (Wayland remote control helpers)
+sudo dnf install xdg-desktop-portal ydotool
 ```
 
 ### Manual Download
